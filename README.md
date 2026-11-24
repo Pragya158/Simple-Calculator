@@ -28,8 +28,9 @@ This calculator performs basic mathematical operations with an easy-to-use inter
 
 Live Demo
 https://pragya158.github.io/Simple-Calculator/
-🎥 Demo Video
 
+🎥 Demo Video
+<img width="1280" height="720" alt="1000144181" src="https://github.com/user-attachments/assets/222ee3d4-2df5-4801-a4a6-0389dcdc42d2" />
 
 📂 Project Structure
 
@@ -88,5 +89,6 @@ Through this project, I gained practical experience in:
 Pragya Rathore
 
 ---
+
 
 ⭐ If you like this project, feel free to give it a star!
