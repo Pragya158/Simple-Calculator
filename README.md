@@ -30,6 +30,7 @@ Live Demo
 
 🎥 Demo Video
 
+
 📂 Project Structure
 
 Simple_Calculator/
@@ -45,7 +46,7 @@ Follow these steps to run the project locally:
 
 1. Clone this repository:
 
-   git clone YOUR-REPOSITORY-URL
+   git clone https://github.com/Pragya158/Simple-Calculator
 
 2. Open the project folder.
 
