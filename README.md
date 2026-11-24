@@ -27,7 +27,7 @@ This calculator performs basic mathematical operations with an easy-to-use inter
 - JavaScript
 
 Live Demo
-
+https://pragya158.github.io/Simple-Calculator/
 🎥 Demo Video
 
 
