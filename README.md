@@ -20,26 +20,38 @@ This calculator performs basic mathematical operations with an easy-to-use inter
 - 📱 Responsive design
 - 🎨 Clean and user-friendly interface
 
+---
+
 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
+---
+
 Live Demo
 https://pragya158.github.io/Simple-Calculator/
+
+---
 
 🎥 Demo Video
 <img width="1280" height="720" alt="1000144181" src="https://github.com/user-attachments/assets/222ee3d4-2df5-4801-a4a6-0389dcdc42d2" />
 
+---
+
 📂 Project Structure
 
+```text
 Simple_Calculator/
 │
 ├── index.html
 ├── README.md
 ├── script.js
 ├── style.css
+
+```
+---
 
 🚀 Getting Started
 
@@ -55,6 +67,8 @@ Follow these steps to run the project locally:
 
 4. Start using the calculator!
 
+---
+
 📖 How to Use
 
 1. Enter numbers using the calculator buttons.
@@ -64,6 +78,8 @@ Follow these steps to run the project locally:
 5. Use "DEL" to remove the last entered character.
 6. Use "C" to clear the display.
 7. You can also use your keyboard for calculations.
+
+---
 
 🎯 Project Purpose
 
@@ -78,17 +94,21 @@ Through this project, I gained practical experience in:
 - Event handling
 - Handling mathematical operations
 
+---
+
 🔮 Future Improvements
 
 - Add calculation history.
 - Improve advanced mathematical operations.
 - Add dark and light themes.
 
+---
+
 👩‍💻 Author
 
 Pragya Rathore
 
----
+
 
 
 ⭐ If you like this project, feel free to give it a star!
