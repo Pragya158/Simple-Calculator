@@ -36,7 +36,8 @@ https://pragya158.github.io/Simple-Calculator/
 ---
 
 🎥 Demo Video
-<img width="1280" height="720" alt="1000144181" src="https://github.com/user-attachments/assets/222ee3d4-2df5-4801-a4a6-0389dcdc42d2" />
+<img width="1230" height="691" alt="1000144936" src="https://github.com/user-attachments/assets/5f87b0c2-d831-4f4e-adc9-8b552e48eac3" />
+
 
 ---
 
